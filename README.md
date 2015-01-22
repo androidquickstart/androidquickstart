@@ -18,10 +18,10 @@
    umeng-message-v1.5.0.jar
 3. [友盟用户反馈](http://www.umeng.com/component_feedback)
 
-   com.umeng.fb(v5.0.1)
+   [com.umeng.fb(v5.0.1)](https://github.com/androidquickstart/androidquickstart/tree/master/com.umeng.fb)
 4. [友盟自动更新](http://www.umeng.com/component_update)
 
-   com.umeng.update(v2.5.0)
+   [com.umeng.update(v2.5.0)](https://github.com/androidquickstart/androidquickstart/tree/master/com.umeng.update)
 
 要使用以上服务需要拥有友盟帐号, 在[友盟服务平台](https://www.umeng.com/sso/login?service=http://www.umeng.com/users/login_redirect)上进行相关的设置, 请自行阅读相关SDK的文档来替换一些配置项, 例如UMENG_APPKEY
 
