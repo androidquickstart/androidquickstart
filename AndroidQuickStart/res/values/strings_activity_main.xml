@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="activity_main_desc">快速构建一个互联网类型的Android App\n本框架提供如下功能:\n1. 统计分析\n2. 在线参数\n3. 消息推送\n4. 用户反馈\n5. 自动更新</string>
     <string name="activity_main_onlineconfig">测试在线参数</string>
     <string name="activity_main_feedback">测试用户反馈</string>
     <string name="activity_main_update">测试手动更新</string>
