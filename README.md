@@ -31,6 +31,11 @@
 3. 需要将这些项目都导入到eclipse中
 4. 最终运行AndroidQuickStart项目即可
 
+## 下载体验
+![app-screenshot](http://androidquickstart.github.io/androidquickstart/app-screenshot.png)
+
+![qrcode-download](http://androidquickstart.github.io/androidquickstart/qrcode-download.png)
+
 ## 测试用的App签名
 keystore: AndroidQuickStart/app.keystore
 
