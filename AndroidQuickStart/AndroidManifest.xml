@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.github.ufologist.android"
-    android:versionCode="1"
-    android:versionName="0.1.0" >
+    android:versionCode="2"
+    android:versionName="0.2.0" >
 
     <uses-sdk
         android:minSdkVersion="8"
@@ -22,6 +22,10 @@
 	<uses-permission android:name="android.permission.WRITE_SETTINGS" />
 	<uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
 	<!-- 友盟推送所需权限 -->
+
+    <!-- 友盟反馈所需权限 -->
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <!-- 友盟反馈所需权限 -->
 
     <application
         android:allowBackup="true"
